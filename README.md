@@ -13,7 +13,7 @@ Scenarios for using this may include finding out which tests are:
 
 TraceTestListener is installable via [Composer](http://getcomposer.org) and should be added as a `require-dev` dependency:
 
-    php composer.phar require --dev cabdesigns/trace-test-listener
+    php composer.phar require --dev cabdesigns/trace-test-listener dev-master
 
 XDebug **must** be installed for this listener to work.
 
