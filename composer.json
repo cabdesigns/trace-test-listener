@@ -1,0 +1,17 @@
+{
+    "name": "cabdesigns/trace-test-listener",
+    "description": "Searches the call trace when running your unit tests. Useful for identifying dependencies that should be mocked.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Bell",
+            "email": "chrisbell@cabdesigns.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CABDesigns\\": "src/CABDesigns"
+        }
+    }
+}
